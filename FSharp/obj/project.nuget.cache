@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l2qAaOwMLJhxl8/MjYJstmbG5op13kqH0Vr08rEzcn+lHVu5dc7Ut9lWMh5Eu3TvWIO2aDeS6Ii3uCvfFhKKLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\martu\\source\\repos\\FSharp\\FSharp\\FSharp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\martu\\.nuget\\packages\\fsharp.core\\6.0.2\\fsharp.core.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
